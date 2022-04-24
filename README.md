@@ -1,8 +1,8 @@
 ### Hi there, I'm Bram Krisna Danu 👋
 
 - 🏫 I'm studying at [Information Systems Faculty of Computer Science](http://fik.ubl.ac.id) [University of Bandar Lampung](https://ubl.ac.id)
-- 🔭 I’m looking for part-time in remote job
-- 🌱 I’m learning with `JavaScript: Node.js, Quasar-Framework, vue.js, Dart/flutter, PHP/Laravel/Lumen, Java, MongoDB, MySQL`
+- 🔭 I’m looking for part-time in remote job 🏢
+- ⚡ I’m learning with `JavaScript: Node.js, Quasar-Framework, vue.js, Dart/flutter, PHP/Laravel/Lumen, Java, MongoDB, MySQL`
 - 📫 You can reach me via bramkrisna16@gmail.com
 - 📚 Suggest me one book! But i want to read based on my interests.😄
 
